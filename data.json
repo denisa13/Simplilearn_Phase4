@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "eventname": "Music Night",
+      "date": "01/06/2023",
+      "region": "Bucharest",
+      "description": "Summer '23 Season Opening • Priori, DJ Fett Burger, Telephones, Bogman, EinF",
+      "imageurl": "https://media.istockphoto.com/id/941588262/photo/audience-point-of-view.jpg?b=1&s=170667a&w=0&k=20&c=81tQM7r4kfSvWBkaR1pFtWvQbxAnQJ5nba6GwSm8pCU="
+    },
+    {
+      "id": 2,
+      "eventname": "Stand-up Commedy",
+      "date": "02/06/2023",
+      "region": "Bucharest",
+      "description": "Stand-up Comedy with Pircalab, Micutzu & Bordea",
+      "imageurl": "https://static.iabilet.ro/img/auto_resized/db/event/01/08/ab/00000151879-ace2-720x405-wtm-e2227fbb.jpg"
+    },
+    {
+      "eventname": "Opera",
+      "date": "10/06/2023",
+      "region": "Bucharest",
+      "description": "New concept at the opera",
+      "imageurl": "https://www.opera-comique.com/sites/default/files/styles/meta_1200/public/2021-08/OperaComique_StefanBrion_1920x1080.png",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "id": 1,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "shalini",
+      "password": "shalini123",
+      "email": "shalini@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "priyanka",
+      "password": "priy123",
+      "email": "priyanka@gmail.com",
+      "role": "user"
+    },
+    {
+      "username": "test",
+      "password": "test123",
+      "email": "test@gmail.com",
+      "id": 4,
+      "role": "user"
+    },
+    {
+      "username": "denisa",
+      "password": "den123",
+      "email": "denisa@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "michael",
+      "password": "mic123",
+      "email": "michael@gmail.com",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "abc",
+      "password": "abc123",
+      "email": "abc@gmail.com",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "username": "aa",
+      "password": "aa",
+      "email": "aa@g.c",
+      "role": "user",
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "username": "shalini",
+      "items": [
+        {
+          "itemid": 1,
+          "qty": 1,
+          "price": 50,
+          "total": 50
+        }
+      ]
+    }
+  ]
+}
